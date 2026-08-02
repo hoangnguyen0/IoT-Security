@@ -58,8 +58,8 @@ Kiểm chứng Kịch bản 2 (kichban2-da-khac-phuc):
 Trong Serial Monitor, log sẽ thể hiện thiết bị mất thêm một khoảng thời gian ngắn để thực hiện quá trình bắt tay TLS (TLS Handshake).                                                         
 Hệ thống sẽ ghi nhận thiết lập kết nối tới cổng bảo mật (8883) và bắt buộc truyền thông tin Username/Password.                                      
 Đánh giá: Xác nhận mã nguồn đã khắc phục lỗ hổng. Kênh truyền tải đã được mã hóa bảo mật, đảm bảo tính toàn vẹn và ngăn chặn các nguy cơ nghe lén/giả mạo (Sniffing/Spoofing).                               
-## cách 2 vào 2 đường kink dưới dây chạy trực tiếp
-kịch bản không an toàn: https://wokwi.com/projects/470482721547396097
+## cách 2: Vào 2 đường kink dưới dây chạy trực tiếp
+kịch bản không an toàn: https://wokwi.com/projects/470482721547396097                                        
 kịch bản đã khắc phục: https://wokwi.com/projects/470444602516855809
 ## Lưu ý
 
